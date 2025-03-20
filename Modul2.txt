@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+1. Naza Sapinath Pratiwi
+2. I Nym David 1202220158 1202220158
+3. Rifah Arfiyah
+=======
+>>>>>>> 3612632967134a6f534d8c8a7b6c8ffb0f59cd35
 4. Naufal Akmal Rabbani
 5. Restu Karunia Putra
 
